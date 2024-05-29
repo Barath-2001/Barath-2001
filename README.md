@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barath R</h1>
-<h3 align="center">I am a third year student at PSG College of Technology, Coimbatore, pursuing my Masters in Theoretical Computer Science. A passionate full-stack developer</h3>
+<h3 align="center">I am a Final year student at PSG College of Technology, Coimbatore, pursuing my Masters in Theoretical Computer Science. A passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barath-2001&label=Profile%20views&color=0e75b6&style=flat" alt="barath-2001" /> </p>
 
