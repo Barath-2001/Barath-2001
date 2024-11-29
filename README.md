@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **barathramesh001@gmail.com**
 
-- ⚡ Fun fact: **cricket lover🏏**
+- ⚡ Domain: **Web Development**, **Full Stack Development**, **Data Analytics**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
