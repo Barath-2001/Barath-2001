@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barath-2001&label=Profile%20views&color=0e75b6&style=flat" alt="barath-2001" /> </p>
 
-- 🔭 I’m currently working on **Data Analytics, Python, React js, web projects**
+- 🔭 I’m currently working on **Data Analytics, Python, React js, Web application**
 
 - 📫 How to reach me **barathramesh001@gmail.com**
 
-- ⚡ Domain: **Web Development**, **Full Stack Development**, **Data Analytics**
+- ⚡ Domain: **Data Analytics**, **Web Development**, **Full Stack Development**, 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
