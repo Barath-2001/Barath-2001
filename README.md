@@ -20,7 +20,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=barath-2001&show_icons=true&locale=en&layout=compact" alt="barath-2001" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=barath-2001&show_icons=true&locale=en" alt="" /></p>
+[<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=barath-2001&show_icons=true&locale=en" alt="" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barath-2001&" alt="" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=barath-2001&show_icons=true&locale=en&layout=compact" alt="" /></p>
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barath-2001" alt="" /></a></p>
+<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=barath-2001" alt="" /></a></p>]: #
