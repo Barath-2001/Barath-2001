@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=barath-2001&label=Profile%20views&color=0e75b6&style=flat" alt="barath-2001" /> </p>
 
-- 🔭 I’m currently working on **React js, Express js, web projects**
+- 🔭 I’m currently working on **Data Analytics, Python, React js, web projects**
 
 - 📫 How to reach me **barathramesh001@gmail.com**
 
